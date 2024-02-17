@@ -1,6 +1,8 @@
 ### Mi nombre es Nicolas Setién y estudio Ingeniería Informática en la Universidad Católica Andrés Bello.
 He trabajado con C y Java, y actualmente estoy aprendiendo Dart y Flutter.
 
+ENG/ESP
+
 <!--
 **NicolasSetien/NicolasSetien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
